@@ -14,4 +14,4 @@ Cardio Card Photo by <a href="https://unsplash.com/@gabinvallet?utm_content=cred
 
 Flexbility Card Photo by <a href="https://unsplash.com/@wesleyphotography?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Wesley Tingey</a> on <a href="https://unsplash.com/photos/woman-standing-with-her-one-leg-57wo9F-r2-A?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
-Recovery Card Photo by <a href="https://unsplash.com/@lyfefuel?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">LyfeFuel</a> on <a href="https://unsplash.com/photos/man-in-black-crew-neck-t-shirt-holding-white-plastic-cup-phY30gaxqS8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Recovery Card Photo by <a href="https://unsplash.com/@nature_zen?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Nature Zen</a> on <a href="https://unsplash.com/photos/a-blender-filled-with-ingredients-to-make-a-smoothie-oJzx58W1__M?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
