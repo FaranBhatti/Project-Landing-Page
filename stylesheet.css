@@ -1,5 +1,5 @@
 html {
-  overflow: scroll;
+  overflow: auto;
 }
 body {
   margin: 0;
@@ -209,4 +209,16 @@ button {
 
   display: flex;
   align-items: flex-start;
+}
+
+/* Footer section */
+.footer {
+  height: 50px;
+  background-color: #1f2937;
+  color: white;
+  margin-top: auto;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
