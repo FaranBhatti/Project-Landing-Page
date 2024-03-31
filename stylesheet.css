@@ -1,3 +1,6 @@
+html {
+  overflow: auto;
+}
 body {
   margin: 0;
   min-height: 100vh;
@@ -162,4 +165,60 @@ button {
   font-weight: bold;
   margin-left: 400px;
   margin-top: -50px;
+}
+
+/* Call-to-Action section */
+.call-to-action-container {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+
+.call-to-action {
+  padding: 20px;
+  margin: 25px;
+  color: white;
+  background-color: #1f2937;
+  width: 1000px;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+}
+
+.action {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+}
+
+.action-title {
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 0px;
+
+  display: flex;
+  align-items: flex-end;
+}
+
+.action-subsection {
+  font-size: small;
+  margin-top: 0px;
+  margin-bottom: 30px;
+
+  display: flex;
+  align-items: flex-start;
+}
+
+/* Footer section */
+.footer {
+  height: 50px;
+  background-color: #1f2937;
+  color: white;
+  margin-top: auto;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
