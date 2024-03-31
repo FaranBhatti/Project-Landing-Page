@@ -4,8 +4,9 @@ body {
 }
 
 img {
-  width: 400px;
-  height: 490px;
+  width: 500px;
+  height: 500px;
+  object-fit: contain;
 }
 
 a {
@@ -104,4 +105,17 @@ button {
 .hero-sub-para {
   font-size: 18px;
   color: #E5E7EB;
+}
+
+/* Cards Section */
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 0 1 0;
+}
+
+.cards-container {
+  display: flex;
+  justify-content: space-around;
 }
