@@ -3,6 +3,11 @@ img {
   height: 30%;
 }
 
+a {
+  color: white;
+  text-decoration: none;
+}
+
 .header {
   background-color: #1f2937;
   color: white;
