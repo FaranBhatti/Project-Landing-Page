@@ -107,6 +107,11 @@ button {
 }
 
 /* Cards Section */
+.information-header {
+  font-size: 38px;
+  font-weight: bolder;
+  color: #1f2937;
+}
 .card {
   display: flex;
   flex-direction: column;
