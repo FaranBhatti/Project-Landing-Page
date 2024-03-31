@@ -6,4 +6,4 @@ In terms of what the theme is: I personally enjoy working out. I figured it woul
 # 📸 Photo Credits
 This section outlines photo credits to the relevant authors utilized in my project.
 
-Photo by <a href="https://unsplash.com/@echaparro?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Edgar Chaparro</a> on <a href="https://unsplash.com/photos/grayscale-photo-of-man-working-out-sHfo3WOgGTU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Photo by <a href="https://unsplash.com/@helloimnik?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Nik</a> on <a href="https://unsplash.com/photos/difficult-roads-lead-to-beautiful-destinations-desk-decor-z1d-LP8sjuI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
