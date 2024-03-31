@@ -50,11 +50,6 @@ button {
   font-weight: bolder;
 }
 
-.hero-sub-para {
-  font-size: 18px;
-  color: #E5E7EB;
-}
-
 .logo {
   font-size: 24px;
 }
@@ -84,17 +79,25 @@ button {
 .lower-header-left {
   display: flex;
   margin: 0px;
+  padding-left: 700px;
+  width: 600px;
   flex-direction: column;
-  align-items: baseline;
+  align-items: flex-start;
+}
+
+.lower-header-right {
+  display: flex;
+  justify-content: center;
+  align-content: center;
 }
 
 .hero-title {
   margin-top: 0px;
   margin-bottom: 0px;
+  display: flex;
 }
 
-.lower-header-right {
-  display: flex;
-  flex-direction: row;
-  justify-content: flex-start;
+.hero-sub-para {
+  font-size: 18px;
+  color: #E5E7EB;
 }
